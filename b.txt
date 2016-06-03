@@ -1,2 +1,5 @@
 Kevin making an edit
 Kevin is making another local edit for conflict
+Kevin making an edit // This is Joao changing your alteration
+Kevin is making a local edit
+
