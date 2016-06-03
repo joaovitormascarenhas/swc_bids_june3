@@ -1,2 +1,2 @@
 Kevin making an edit
-Kevin is making a local edit
+Kevin is making another local edit for conflict
